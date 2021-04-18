@@ -16,6 +16,7 @@ const Login = () => {
             <LoginInnerContainer>
                 <img
                     src='https://cdn.mos.cms.futurecdn.net/SDDw7CnuoUGax6x9mTo7dd.jpg'
+                    alt='Login Avatar'
                 />
                 <h1>Sign in to Slack 2.0</h1>
                 <p>slack2.0.com</p>
