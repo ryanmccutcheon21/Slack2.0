@@ -19,7 +19,6 @@ const Login = () => {
                     alt='Login Avatar'
                 />
                 <h1>Sign in to Slack 2.0</h1>
-                <p>slack2.0.com</p>
                 <Button onClick={signIn}>
                     Sign in with Google
                 </Button>
